@@ -1,4 +1,4 @@
-<img align="right" width="300" height="350" src="https://i.imgur.com/CSUns6S.png">
+<img align="right" width="300" height="450" src="https://i.imgur.com/CSUns6S.png">
 
 <h1>BEM VINDE! 🧡</h1> 
 
@@ -16,6 +16,6 @@
 
 
  <br>
- <a href = "mailto:karenrodrigues20120@gmail.com"><img align="center" alt="Icon-Gma" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"></a>
-  <a href="https://instagram.com/r_skaren" target="_blank"><img align="center" alt="Icon-Ins" height="60" width="60" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377231.png?token=exp=1638193001~hmac=0935915ae7c9a89ce4ff3c842f5c9ff1" target="_blank"></a>
+ <a href = "mailto:rento.generation@gmail.com"><img align="center" alt="Icon-Gma" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"></a>
+  <a href="https://www.instagram.com/rento.generation/" target="_blank"><img align="center" alt="Icon-Ins" height="60" width="60" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377231.png?token=exp=1638193001~hmac=0935915ae7c9a89ce4ff3c842f5c9ff1" target="_blank"></a>
 <br>
